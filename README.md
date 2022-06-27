@@ -1,0 +1,1 @@
+For this project, I am going to display the skills I have learned in the Foundations section of The Odin Project. Some of these skills include using the boilerplate, lists, bold text, and more. The project in question is a website with recipe(s) on it. 
